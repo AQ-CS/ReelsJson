@@ -46,5 +46,17 @@
         "thumbnail": "https://img.youtube.com/vi/7Ed_WSxG-IY/maxresdefault.jpg",
         "category": "Reminders",
         "original_url": "https://www.youtube.com/shorts/7Ed_WSxG-IY"
+    },
+    {
+        "id": "40e3b931-47b4-4f78-8330-50727b505c91",
+        "type": "short",
+        "videoId": "W34MgVw_eo8",
+        "playlistId": null,
+        "title": "#quran recitation - Quran tilawat by Siddiq al minshawi | Al an'am",
+        "speaker": "Call of Truth",
+        "duration": "0:26",
+        "thumbnail": "https://img.youtube.com/vi/W34MgVw_eo8/maxresdefault.jpg",
+        "category": "Reminders",
+        "original_url": "https://www.youtube.com/shorts/W34MgVw_eo8"
     }
 ]
